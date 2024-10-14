@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Behic</h1>
+<h1>Hi 👋, I'm Behic</h1>
 <br>
 🎓 Junior Computer Engineer | Kocaeli University Graduate
 <br>
