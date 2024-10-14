@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Behic</h1>
 <br>
-🎓 Junior Computer Engineer | Kocaeli University Graduate
+🎓 Junior Computer Engineer 
 <br>
 💻 Advancing skills in C, Python, JaavScript and Java
 <br>
