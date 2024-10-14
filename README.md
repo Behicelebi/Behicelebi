@@ -2,7 +2,7 @@
 <br>
 🎓 Junior Computer Engineer | Kocaeli University Graduate
 <br>
-💻 Advancing skills in C, Python, and Java
+💻 Advancing skills in C, Python, JaavScript and Java
 <br>
 🚀 Passionate about backend development
 <br>
